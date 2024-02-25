@@ -1,0 +1,3 @@
+# Bitcoin Transaction API Selection for Betting Platform
+
+After thorough research, integrating a Bitcoin transaction API is crucial for securely and transparently processing bets. The Blockchain Developer APIs and Bitquery are notable resources that stand out for their robustness and developer-friendly features. Both offer comprehensive documentation and support, making them strong candidates for further exploration and integration into the betting platform.
